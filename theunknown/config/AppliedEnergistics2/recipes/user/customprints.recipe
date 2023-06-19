@@ -1,0 +1,16 @@
+press=
+    minecraft:diamond minecraft:obsidian minecraft:redstone_block
+    -> ae2:material.LogicProcessorPress
+
+press=
+    minecraft:emerald minecraft:obsidian minecraft:redstone_block
+    -> ae2:material.CalcProcessorPress
+
+press=
+    minecraft:ender_pearl minecraft:obsidian minecraft:redstone_block
+    -> ae2:material.EngProcessorPress
+
+press=
+    minecraft:flint minecraft:obsidian minecraft:redstone_block
+    -> ae2:material.SiliconPress
+	

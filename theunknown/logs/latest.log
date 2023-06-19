@@ -1,0 +1,160 @@
+[11:59:24] [Client thread/INFO]: Setting user: VsevolodLNM
+[11:59:26] [Client thread/WARN]: Skipping bad option: lastServer:
+[11:59:26] [Client thread/INFO]: LWJGL Version: 2.9.4
+[11:59:34] [Client thread/INFO]: Reloading ResourceManager: BetterFps, Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Actually Additions, FMLFileResourcePack:AppleCore, FMLFileResourcePack:Applied Energistics 2, FMLFileResourcePack:ArchitectureCraft, FMLFileResourcePack:AutoRegLib, FMLFileResourcePack:Baby Mobs, FMLFileResourcePack:Baubles, FMLFileResourcePack:BD Lib, FMLFileResourcePack:Better Foliage, FMLFileResourcePack:BiblioCraft, FMLFileResourcePack:Big Doors, FMLFileResourcePack:Blood Magic: Alchemical Wizardry, FMLFileResourcePack:Botania, FMLFileResourcePack:Chameleon, FMLFileResourcePack:Chisel, FMLFileResourcePack:Chisels & Bits, FMLFileResourcePack:CodeChicken Core, FMLFileResourcePack:CodeChicken Lib, FMLFileResourcePack:ccl-entityhook, FMLFileResourcePack:CommonCapabilities, FMLFileResourcePack:Cooking for Blockheads, FMLFileResourcePack:CoroUtil Library, FMLFileResourcePack:Extended Renderer, FMLFileResourcePack:Extended Mod Config, FMLFileResourcePack:CosmeticArmorReworked, FMLFileResourcePack:Simple Covers, FMLFileResourcePack:CT-GUI, FMLFileResourcePack:MineTweaker 3, FMLFileResourcePack:CraftTweaker JEI Support, FMLFileResourcePack:CreativeCore, FMLFileResourcePack:Cyberware, FMLFileResourcePack:Cyclops Core, FMLFileResourcePack:PTRModelLib, FMLFileResourcePack:Decocraft, FMLFileResourcePack:DeepResonance, FMLFileResourcePack:Dynamic Surroundings, FMLFileResourcePack:Everyday Commands, FMLFileResourcePack:ElecCore, FMLFileResourcePack:EnderCore, FMLFileResourcePack:Ender IO, FMLFileResourcePack:EnderStorage, FMLFileResourcePack:Extra Utilities 2, FMLFileResourcePack:Farseek, FMLFileResourcePack:Fast Leaf Decay, FMLFileResourcePack:Forestry, FMLFileResourcePack:FoxLib, FMLFileResourcePack:Funky Locomotion, FMLFileResourcePack:GenDustry, FMLFileResourcePack:Gravestone, FMLFileResourcePack:Guide-API, FMLFileResourcePack:Hardcore Darkness, FMLFileResourcePack:Immersive Engineering, FMLFileResourcePack:Inventory Tweaks, FMLFileResourcePack:Iron Backpacks, FMLFileResourcePack:Iron Chest, FMLFileResourcePack:Item Scroller, FMLFileResourcePack:Just Enough Items, FMLFileResourcePack:JEI Bees, FMLFileResourcePack:JourneyMap, FMLFileResourcePack:Just Enough Resources, FMLFileResourcePack:LittleTiles, FMLFileResourcePack:Malisis Blocks, FMLFileResourcePack:MalisisCore, FMLFileResourcePack:MalisisDoors, FMLFileResourcePack:Malisis Switches, FMLFileResourcePack:Mantle, FMLFileResourcePack:MCMultiPart, FMLFileResourcePack:MmmMmmMmmMmm, FMLFileResourcePack:Mod Tweaker, FMLFileResourcePack:More Bees, FMLFileResourcePack:MoreOverlays, FMLFileResourcePack:Morpheus, FMLFileResourcePack:MTLib, FMLFileResourcePack:Multi-Storage, FMLFileResourcePack:NoMoreRecipeConflict, FMLFileResourcePack:OpenComputers, FMLFileResourcePack:Pam's HarvestCraft, FMLFileResourcePack:Perfect Spawn, FMLFileResourcePack:Platforms, FMLFileResourcePack:Practical Logistics 2, FMLFileResourcePack:Quark, FMLFileResourcePack:Railcraft, FMLFileResourcePack:Random Things, FMLFileResourcePack:Ranged Pumps, FMLFileResourcePack:Recurrent Complex, FMLFileResourcePack:Roots, FMLFileResourcePack:ShetiPhian-Core, FMLFileResourcePack:Signals, FMLFileResourcePack:SonarCore, FMLFileResourcePack:The Spice of Life, FMLFileResourcePack:Storage Drawers, FMLFileResourcePack:Streams, FMLFileResourcePack:Super Circuit Maker, FMLFileResourcePack:Tails, FMLFileResourcePack:Tinkers' Construct, FMLFileResourcePack:The One Probe, FMLFileResourcePack:Totemic, FMLFileResourcePack:Translocator, FMLFileResourcePack:Localized Weather & Storms, FMLFileResourcePack:WorldEdit, FMLFileResourcePack:Zoology
+[11:59:56] [Client thread/WARN]: File minecraft:sounds/tock4.ogg does not exist, cannot add it to event bibliocraft:tock
+[11:59:56] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[11:59:56] [Client thread/ERROR]: ########## GL ERROR ##########
+[11:59:56] [Client thread/ERROR]: @ Pre startup
+[11:59:56] [Client thread/ERROR]: 1281: Invalid value
+[11:59:57] [Thread-10/INFO]: Initializing LWJGL OpenAL
+[11:59:57] [Thread-10/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[11:59:57] [Thread-10/INFO]: OpenAL initialized.
+[11:59:57] [Sound Library Loader/INFO]: Sound engine started
+[12:00:03] [Client thread/INFO]: Created: 16x16 textures-atlas
+[12:00:16] [Client thread/WARN]: Couldn't find resource table railcraft:chests/village_workshop
+[12:00:22] [Client thread/INFO]: Reloading ResourceManager: BetterFps, Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Actually Additions, FMLFileResourcePack:AppleCore, FMLFileResourcePack:Applied Energistics 2, FMLFileResourcePack:ArchitectureCraft, FMLFileResourcePack:AutoRegLib, FMLFileResourcePack:Baby Mobs, FMLFileResourcePack:Baubles, FMLFileResourcePack:BD Lib, FMLFileResourcePack:Better Foliage, FMLFileResourcePack:BiblioCraft, FMLFileResourcePack:Big Doors, FMLFileResourcePack:Blood Magic: Alchemical Wizardry, FMLFileResourcePack:Botania, FMLFileResourcePack:Chameleon, FMLFileResourcePack:Chisel, FMLFileResourcePack:Chisels & Bits, FMLFileResourcePack:CodeChicken Core, FMLFileResourcePack:CodeChicken Lib, FMLFileResourcePack:ccl-entityhook, FMLFileResourcePack:CommonCapabilities, FMLFileResourcePack:Cooking for Blockheads, FMLFileResourcePack:CoroUtil Library, FMLFileResourcePack:Extended Renderer, FMLFileResourcePack:Extended Mod Config, FMLFileResourcePack:CosmeticArmorReworked, FMLFileResourcePack:Simple Covers, FMLFileResourcePack:CT-GUI, FMLFileResourcePack:MineTweaker 3, FMLFileResourcePack:CraftTweaker JEI Support, FMLFileResourcePack:CreativeCore, FMLFileResourcePack:Cyberware, FMLFileResourcePack:Cyclops Core, FMLFileResourcePack:PTRModelLib, FMLFileResourcePack:Decocraft, FMLFileResourcePack:DeepResonance, FMLFileResourcePack:Dynamic Surroundings, FMLFileResourcePack:Everyday Commands, FMLFileResourcePack:EnderCore, FMLFileResourcePack:Ender IO, FMLFileResourcePack:EnderStorage, FMLFileResourcePack:Extra Utilities 2, FMLFileResourcePack:Farseek, FMLFileResourcePack:Fast Leaf Decay, FMLFileResourcePack:Forestry, FMLFileResourcePack:FoxLib, FMLFileResourcePack:Funky Locomotion, FMLFileResourcePack:GenDustry, FMLFileResourcePack:Gravestone, FMLFileResourcePack:Guide-API, FMLFileResourcePack:Hardcore Darkness, FMLFileResourcePack:Immersive Engineering, FMLFileResourcePack:Inventory Tweaks, FMLFileResourcePack:Iron Backpacks, FMLFileResourcePack:Iron Chest, FMLFileResourcePack:Item Scroller, FMLFileResourcePack:Just Enough Items, FMLFileResourcePack:JEI Bees, FMLFileResourcePack:JourneyMap, FMLFileResourcePack:Just Enough Resources, FMLFileResourcePack:LittleTiles, FMLFileResourcePack:Malisis Blocks, FMLFileResourcePack:MalisisCore, FMLFileResourcePack:MalisisDoors, FMLFileResourcePack:Malisis Switches, FMLFileResourcePack:Mantle, FMLFileResourcePack:MCMultiPart, FMLFileResourcePack:MmmMmmMmmMmm, FMLFileResourcePack:Mod Tweaker, FMLFileResourcePack:More Bees, FMLFileResourcePack:MoreOverlays, FMLFileResourcePack:Morpheus, FMLFileResourcePack:MTLib, FMLFileResourcePack:Multi-Storage, FMLFileResourcePack:NoMoreRecipeConflict, FMLFileResourcePack:OpenComputers, FMLFileResourcePack:Pam's HarvestCraft, FMLFileResourcePack:Perfect Spawn, FMLFileResourcePack:Platforms, FMLFileResourcePack:Practical Logistics 2, FMLFileResourcePack:Quark, FMLFileResourcePack:Railcraft, FMLFileResourcePack:Random Things, FMLFileResourcePack:Ranged Pumps, FMLFileResourcePack:Recurrent Complex, FMLFileResourcePack:Roots, FMLFileResourcePack:ShetiPhian-Core, FMLFileResourcePack:Signals, FMLFileResourcePack:SonarCore, FMLFileResourcePack:The Spice of Life, FMLFileResourcePack:Storage Drawers, FMLFileResourcePack:Streams, FMLFileResourcePack:Super Circuit Maker, FMLFileResourcePack:Tails, FMLFileResourcePack:Tinkers' Construct, FMLFileResourcePack:The One Probe, FMLFileResourcePack:Totemic, FMLFileResourcePack:Translocator, FMLFileResourcePack:Localized Weather & Storms, FMLFileResourcePack:WorldEdit, FMLFileResourcePack:Zoology, quark-texture-proxy, FMLFileResourcePack:ElecCore, Better Foliage generated
+[12:00:25] [Client thread/WARN]: File minecraft:sounds/tock4.ogg does not exist, cannot add it to event bibliocraft:tock
+[12:00:25] [Client thread/INFO]: SoundSystem shutting down...
+[12:00:25] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
+[12:00:25] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[12:00:25] [Thread-24/INFO]: Initializing LWJGL OpenAL
+[12:00:25] [Thread-24/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[12:00:25] [Thread-24/INFO]: OpenAL initialized.
+[12:00:26] [Sound Library Loader/INFO]: Sound engine started
+[12:00:32] [Client thread/WARN]: Texture betterfoliage:textures/blocks/falling_leaf_default_2.png with size 8x8 will have visual artifacts at mip level 4, it can only support level 3. Please report to the mod author that the texture should be some multiple of 16x16.
+[12:00:32] [Client thread/WARN]: Texture betterfoliage:textures/blocks/falling_leaf_default_1.png with size 8x8 will have visual artifacts at mip level 4, it can only support level 3. Please report to the mod author that the texture should be some multiple of 16x16.
+[12:00:32] [Client thread/WARN]: Texture betterfoliage:textures/blocks/falling_leaf_default_0.png with size 8x8 will have visual artifacts at mip level 4, it can only support level 3. Please report to the mod author that the texture should be some multiple of 16x16.
+[12:00:32] [Client thread/WARN]: Texture betterfoliage:textures/blocks/falling_leaf_default_3.png with size 8x8 will have visual artifacts at mip level 4, it can only support level 3. Please report to the mod author that the texture should be some multiple of 16x16.
+[12:00:32] [Client thread/WARN]: Texture bettergrassandleaves:textures/blocks/soul_track.png with size 8x8 will have visual artifacts at mip level 4, it can only support level 3. Please report to the mod author that the texture should be some multiple of 16x16.
+[12:00:33] [Client thread/WARN]: Texture littletiles:textures/blocks/ltstorageblock.png with size 220x220 will have visual artifacts at mip level 4, it can only support level 2. Please report to the mod author that the texture should be some multiple of 16x16.
+[12:00:33] [Client thread/WARN]: Texture betterfoliage:textures/blocks/falling_leaf_spruce_3.png with size 8x8 will have visual artifacts at mip level 4, it can only support level 3. Please report to the mod author that the texture should be some multiple of 16x16.
+[12:00:33] [Client thread/WARN]: Texture betterfoliage:textures/blocks/falling_leaf_spruce_2.png with size 8x8 will have visual artifacts at mip level 4, it can only support level 3. Please report to the mod author that the texture should be some multiple of 16x16.
+[12:00:33] [Client thread/WARN]: Texture betterfoliage:textures/blocks/falling_leaf_spruce_1.png with size 8x8 will have visual artifacts at mip level 4, it can only support level 3. Please report to the mod author that the texture should be some multiple of 16x16.
+[12:00:33] [Client thread/WARN]: Texture betterfoliage:textures/blocks/falling_leaf_spruce_0.png with size 8x8 will have visual artifacts at mip level 4, it can only support level 3. Please report to the mod author that the texture should be some multiple of 16x16.
+[12:00:33] [Client thread/WARN]: Texture bibliocraft:textures/models/inkplate1.png with size 8x8 will have visual artifacts at mip level 4, it can only support level 3. Please report to the mod author that the texture should be some multiple of 16x16.
+[12:00:33] [Client thread/WARN]: Texture bibliocraft:textures/models/inkplate0.png with size 8x8 will have visual artifacts at mip level 4, it can only support level 3. Please report to the mod author that the texture should be some multiple of 16x16.
+[12:00:33] [Client thread/WARN]: Texture bibliocraft:textures/models/inkplate3.png with size 8x8 will have visual artifacts at mip level 4, it can only support level 3. Please report to the mod author that the texture should be some multiple of 16x16.
+[12:00:33] [Client thread/WARN]: Texture bibliocraft:textures/models/inkplate2.png with size 8x8 will have visual artifacts at mip level 4, it can only support level 3. Please report to the mod author that the texture should be some multiple of 16x16.
+[12:00:33] [Client thread/WARN]: Texture bibliocraft:textures/models/inkplate8.png with size 8x8 will have visual artifacts at mip level 4, it can only support level 3. Please report to the mod author that the texture should be some multiple of 16x16.
+[12:00:33] [Client thread/WARN]: Texture bibliocraft:textures/models/inkplate5.png with size 8x8 will have visual artifacts at mip level 4, it can only support level 3. Please report to the mod author that the texture should be some multiple of 16x16.
+[12:00:33] [Client thread/WARN]: Texture bibliocraft:textures/models/inkplate4.png with size 8x8 will have visual artifacts at mip level 4, it can only support level 3. Please report to the mod author that the texture should be some multiple of 16x16.
+[12:00:33] [Client thread/WARN]: Texture bibliocraft:textures/models/inkplate7.png with size 8x8 will have visual artifacts at mip level 4, it can only support level 3. Please report to the mod author that the texture should be some multiple of 16x16.
+[12:00:33] [Client thread/WARN]: Texture bibliocraft:textures/models/inkplate6.png with size 8x8 will have visual artifacts at mip level 4, it can only support level 3. Please report to the mod author that the texture should be some multiple of 16x16.
+[12:00:33] [Client thread/WARN]: Texture immersiveengineering:textures/blocks/metalMultiblock_silo.png with size 88x88 will have visual artifacts at mip level 4, it can only support level 3. Please report to the mod author that the texture should be some multiple of 16x16.
+[12:00:33] [Client thread/WARN]: Texture betterfoliage:textures/blocks/falling_leaf_jungle_0.png with size 8x8 will have visual artifacts at mip level 4, it can only support level 3. Please report to the mod author that the texture should be some multiple of 16x16.
+[12:00:33] [Client thread/WARN]: Texture betterfoliage:textures/blocks/falling_leaf_jungle_3.png with size 8x8 will have visual artifacts at mip level 4, it can only support level 3. Please report to the mod author that the texture should be some multiple of 16x16.
+[12:00:33] [Client thread/WARN]: Texture betterfoliage:textures/blocks/falling_leaf_jungle_2.png with size 8x8 will have visual artifacts at mip level 4, it can only support level 3. Please report to the mod author that the texture should be some multiple of 16x16.
+[12:00:33] [Client thread/WARN]: Texture betterfoliage:textures/blocks/falling_leaf_jungle_1.png with size 8x8 will have visual artifacts at mip level 4, it can only support level 3. Please report to the mod author that the texture should be some multiple of 16x16.
+[12:00:38] [Client thread/INFO]: Created: 4096x2048 textures-atlas
+[12:00:41] [Client thread/WARN]: Unable to resolve texture due to upward reference: #side in immersiveengineering:models/block/ieScaffolding
+[12:00:41] [Client thread/WARN]: Unable to resolve texture due to upward reference: #side in immersiveengineering:models/block/ieScaffolding
+[12:00:41] [Client thread/WARN]: Unable to resolve texture due to upward reference: #side in immersiveengineering:models/block/ieScaffolding
+[12:00:41] [Client thread/WARN]: Unable to resolve texture due to upward reference: #side in immersiveengineering:models/block/ieScaffolding
+[12:00:41] [Client thread/WARN]: Unable to resolve texture due to upward reference: #side in immersiveengineering:models/block/ieScaffolding
+[12:00:41] [Client thread/WARN]: Unable to resolve texture due to upward reference: #side in immersiveengineering:models/block/ieScaffolding
+[12:00:41] [Client thread/WARN]: Unable to resolve texture due to upward reference: #side in immersiveengineering:models/block/ieScaffolding
+[12:00:41] [Client thread/WARN]: Unable to resolve texture due to upward reference: #side in immersiveengineering:models/block/ieScaffolding
+[12:00:41] [Client thread/WARN]: Unable to resolve texture due to upward reference: #side in immersiveengineering:models/block/ieScaffolding
+[12:00:41] [Client thread/WARN]: Unable to resolve texture due to upward reference: #side in immersiveengineering:models/block/ieScaffolding
+[12:00:41] [Client thread/WARN]: Unable to resolve texture due to upward reference: #side in immersiveengineering:models/block/ieScaffolding
+[12:00:41] [Client thread/WARN]: Unable to resolve texture due to upward reference: #side in immersiveengineering:models/block/ieScaffolding
+[12:00:41] [Client thread/WARN]: Unable to resolve texture due to upward reference: #side in immersiveengineering:models/block/ieScaffolding
+[12:00:41] [Client thread/WARN]: Unable to resolve texture due to upward reference: #side in immersiveengineering:models/block/ieScaffolding
+[12:00:41] [Client thread/WARN]: Unable to resolve texture due to upward reference: #side in immersiveengineering:models/block/ieScaffolding
+[12:00:41] [Client thread/WARN]: Unable to resolve texture due to upward reference: #side in immersiveengineering:models/block/ieScaffolding
+[12:00:41] [Client thread/WARN]: Unable to resolve texture due to upward reference: #side in immersiveengineering:models/block/ieScaffolding
+[12:00:41] [Client thread/WARN]: Unable to resolve texture due to upward reference: #side in immersiveengineering:models/block/ieScaffolding
+[12:00:41] [Client thread/WARN]: Unable to resolve texture due to upward reference: #side in immersiveengineering:models/block/ieScaffolding
+[12:00:41] [Client thread/WARN]: Unable to resolve texture due to upward reference: #side in immersiveengineering:models/block/ieScaffolding
+[12:00:41] [Client thread/WARN]: Unable to resolve texture due to upward reference: #side in immersiveengineering:models/block/ieScaffolding
+[12:00:41] [Client thread/WARN]: Unable to resolve texture due to upward reference: #side in immersiveengineering:models/block/ieScaffolding
+[12:00:41] [Client thread/WARN]: Unable to resolve texture due to upward reference: #side in immersiveengineering:models/block/ieScaffolding
+[12:00:41] [Client thread/WARN]: Unable to resolve texture due to upward reference: #side in immersiveengineering:models/block/ieScaffolding
+[12:00:41] [Client thread/WARN]: Unable to resolve texture due to upward reference: #side in immersiveengineering:models/block/ieScaffolding
+[12:00:41] [Client thread/WARN]: Unable to resolve texture due to upward reference: #side in immersiveengineering:models/block/ieScaffolding
+[12:00:41] [Client thread/WARN]: Unable to resolve texture due to upward reference: #side in immersiveengineering:models/block/ieScaffolding
+[12:00:41] [Client thread/WARN]: Unable to resolve texture due to upward reference: #side in immersiveengineering:models/block/ieScaffolding
+[12:00:41] [Client thread/WARN]: Unable to resolve texture due to upward reference: #side in immersiveengineering:models/block/ieScaffolding
+[12:00:41] [Client thread/WARN]: Unable to resolve texture due to upward reference: #side in immersiveengineering:models/block/ieScaffolding
+[12:00:41] [Client thread/WARN]: Unable to resolve texture due to upward reference: #side in immersiveengineering:models/block/ieScaffolding
+[12:00:42] [Client thread/WARN]: Unable to resolve texture due to upward reference: #side in immersiveengineering:models/block/ieScaffolding
+[12:00:42] [Client thread/WARN]: Unable to resolve texture due to upward reference: #side in immersiveengineering:models/block/ieScaffolding
+[12:00:42] [Client thread/WARN]: Unable to resolve texture due to upward reference: #side in immersiveengineering:models/block/ieScaffolding
+[12:00:42] [Client thread/WARN]: Unable to resolve texture due to upward reference: #side in immersiveengineering:models/block/ieScaffolding
+[12:00:42] [Client thread/WARN]: Unable to resolve texture due to upward reference: #side in immersiveengineering:models/block/ieScaffolding
+[12:00:42] [Client thread/WARN]: Unable to resolve texture due to upward reference: #side in immersiveengineering:models/block/ieScaffolding
+[12:00:42] [Client thread/WARN]: Unable to resolve texture due to upward reference: #side in immersiveengineering:models/block/ieScaffolding
+[12:00:42] [Client thread/WARN]: Unable to resolve texture due to upward reference: #side in immersiveengineering:models/block/ieScaffolding
+[12:00:42] [Client thread/WARN]: Unable to resolve texture due to upward reference: #side in immersiveengineering:models/block/ieScaffolding
+[12:00:42] [Client thread/WARN]: Unable to resolve texture due to upward reference: #side in immersiveengineering:models/block/ieScaffolding
+[12:00:42] [Client thread/WARN]: Unable to resolve texture due to upward reference: #side in immersiveengineering:models/block/ieScaffolding
+[12:00:42] [Client thread/WARN]: Unable to resolve texture due to upward reference: #side in immersiveengineering:models/block/ieScaffolding
+[12:00:42] [Client thread/WARN]: Unable to resolve texture due to upward reference: #side in immersiveengineering:models/block/ieScaffolding
+[12:00:42] [Client thread/WARN]: Unable to resolve texture due to upward reference: #side in immersiveengineering:models/block/ieScaffolding
+[12:00:42] [Client thread/WARN]: Unable to resolve texture due to upward reference: #side in immersiveengineering:models/block/ieScaffolding
+[12:00:42] [Client thread/WARN]: Unable to resolve texture due to upward reference: #side in immersiveengineering:models/block/ieScaffolding
+[12:00:42] [Client thread/WARN]: Unable to resolve texture due to upward reference: #side in immersiveengineering:models/block/ieScaffolding
+[12:00:42] [Client thread/WARN]: Unable to resolve texture due to upward reference: #side in immersiveengineering:models/block/ieScaffolding
+[12:00:42] [Client thread/WARN]: Unable to resolve texture due to upward reference: #side in immersiveengineering:models/block/ieScaffolding
+[12:00:42] [Client thread/WARN]: Unable to resolve texture due to upward reference: #side in immersiveengineering:models/block/ieScaffolding
+[12:00:42] [Client thread/WARN]: Unable to resolve texture due to upward reference: #side in immersiveengineering:models/block/ieScaffolding
+[12:00:42] [Client thread/WARN]: Unable to resolve texture due to upward reference: #side in immersiveengineering:models/block/ieScaffolding
+[12:00:42] [Client thread/WARN]: Unable to resolve texture due to upward reference: #side in immersiveengineering:models/block/ieScaffolding
+[12:00:42] [Client thread/WARN]: Unable to resolve texture due to upward reference: #side in immersiveengineering:models/block/ieScaffolding
+[12:00:42] [Client thread/WARN]: Unable to resolve texture due to upward reference: #side in immersiveengineering:models/block/ieScaffolding
+[12:00:42] [Client thread/WARN]: Unable to resolve texture due to upward reference: #side in immersiveengineering:models/block/ieScaffolding
+[12:00:42] [Client thread/WARN]: Unable to resolve texture due to upward reference: #side in immersiveengineering:models/block/ieScaffolding
+[12:00:42] [Client thread/WARN]: Unable to resolve texture due to upward reference: #side in immersiveengineering:models/block/ieScaffolding
+[12:00:42] [Client thread/WARN]: Unable to resolve texture due to upward reference: #side in immersiveengineering:models/block/ieScaffolding
+[12:00:42] [Client thread/WARN]: Unable to resolve texture due to upward reference: #side in immersiveengineering:models/block/ieScaffolding
+[12:00:42] [Client thread/WARN]: Unable to resolve texture due to upward reference: #side in immersiveengineering:models/block/ieScaffolding
+[12:00:42] [Client thread/WARN]: Unable to resolve texture due to upward reference: #side in immersiveengineering:models/block/ieScaffolding
+[12:00:42] [Client thread/WARN]: Unable to resolve texture due to upward reference: #side in immersiveengineering:models/block/ieScaffolding
+[12:00:42] [Client thread/WARN]: Unable to resolve texture due to upward reference: #side in immersiveengineering:models/block/ieScaffolding
+[12:00:43] [Client thread/WARN]: Unable to resolve texture due to upward reference: #side in immersiveengineering:models/block/ieScaffolding
+[12:00:43] [Client thread/WARN]: Unable to resolve texture due to upward reference: #side in immersiveengineering:models/block/ieScaffolding
+[12:00:43] [Client thread/WARN]: Unable to resolve texture due to upward reference: #side in immersiveengineering:models/block/ieScaffolding
+[12:00:43] [Client thread/WARN]: Unable to resolve texture due to upward reference: #side in immersiveengineering:models/block/ieScaffolding
+[12:00:44] [Client thread/WARN]: Unable to resolve texture due to upward reference: #side in immersiveengineering:models/block/ieScaffolding
+[12:00:44] [Client thread/WARN]: Unable to resolve texture due to upward reference: #side in immersiveengineering:models/block/ieScaffolding
+[12:00:45] [Client thread/WARN]: Unable to resolve texture due to upward reference: #side in immersiveengineering:models/block/ieScaffolding
+[12:00:45] [Client thread/WARN]: Unable to resolve texture due to upward reference: #side in immersiveengineering:models/block/ieScaffolding
+[12:00:45] [Client thread/WARN]: Unable to resolve texture due to upward reference: #side in immersiveengineering:models/block/ieScaffolding
+[12:00:45] [Client thread/WARN]: Unable to resolve texture due to upward reference: #side in immersiveengineering:models/block/ieScaffolding
+[12:00:45] [Client thread/WARN]: Unable to resolve texture due to upward reference: #side in immersiveengineering:models/block/ieScaffolding
+[12:00:45] [Client thread/WARN]: Unable to resolve texture due to upward reference: #side in immersiveengineering:models/block/ieScaffolding
+[12:00:45] [Client thread/WARN]: Unable to resolve texture due to upward reference: #side in immersiveengineering:models/block/ieScaffolding
+[12:00:45] [Client thread/WARN]: Unable to resolve texture due to upward reference: #side in immersiveengineering:models/block/ieScaffolding
+[12:00:45] [Client thread/WARN]: Unable to resolve texture due to upward reference: #side in immersiveengineering:models/block/ieScaffolding
+[12:00:45] [Client thread/WARN]: Unable to resolve texture due to upward reference: #side in immersiveengineering:models/block/ieScaffolding
+[12:00:45] [Client thread/WARN]: Unable to resolve texture due to upward reference: #side in immersiveengineering:models/block/ieScaffolding
+[12:00:45] [Client thread/WARN]: Unable to resolve texture due to upward reference: #pane in chisel:models/block/pane/pane_n
+[12:00:45] [Client thread/WARN]: Unable to resolve texture due to upward reference: #pane in chisel:models/block/pane/pane_n
+[12:00:45] [Client thread/WARN]: Unable to resolve texture due to upward reference: #pane in chisel:models/block/pane/pane_n
+[12:00:45] [Client thread/WARN]: Unable to resolve texture due to upward reference: #pane in chisel:models/block/pane/pane_n
+[12:00:45] [Client thread/WARN]: Unable to resolve texture due to upward reference: #pane in chisel:models/block/pane/pane_ne
+[12:00:45] [Client thread/WARN]: Unable to resolve texture due to upward reference: #pane in chisel:models/block/pane/pane_ne
+[12:00:45] [Client thread/WARN]: Unable to resolve texture due to upward reference: #pane in chisel:models/block/pane/pane_ne
+[12:00:45] [Client thread/WARN]: Unable to resolve texture due to upward reference: #pane in chisel:models/block/pane/pane_ne
+[12:00:45] [Client thread/WARN]: Unable to resolve texture due to upward reference: #pane in chisel:models/block/pane/pane_ns
+[12:00:45] [Client thread/WARN]: Unable to resolve texture due to upward reference: #pane in chisel:models/block/pane/pane_ns
+[12:00:45] [Client thread/WARN]: Unable to resolve texture due to upward reference: #pane in chisel:models/block/pane/pane_nse
+[12:00:45] [Client thread/WARN]: Unable to resolve texture due to upward reference: #pane in chisel:models/block/pane/pane_nse
+[12:00:45] [Client thread/WARN]: Unable to resolve texture due to upward reference: #pane in chisel:models/block/pane/pane_nse
+[12:00:45] [Client thread/WARN]: Unable to resolve texture due to upward reference: #pane in chisel:models/block/pane/pane_nse
+[12:00:45] [Client thread/WARN]: Unable to resolve texture due to upward reference: #side in immersiveengineering:models/block/ieScaffolding
+[12:00:45] [Client thread/WARN]: Unable to resolve texture due to upward reference: #side in immersiveengineering:models/block/ieScaffolding
+[12:00:45] [Client thread/WARN]: Unable to resolve texture due to upward reference: #side in immersiveengineering:models/block/ieScaffolding
+[12:00:45] [Client thread/WARN]: Unable to resolve texture due to upward reference: #side in immersiveengineering:models/block/ieScaffolding
+[12:00:45] [Client thread/WARN]: Unable to resolve texture due to upward reference: #side in immersiveengineering:models/block/ieScaffolding
+[12:00:45] [Client thread/WARN]: Unable to resolve texture due to upward reference: #side in immersiveengineering:models/block/ieScaffolding
+[12:00:45] [Client thread/WARN]: Unable to resolve texture due to upward reference: #side in immersiveengineering:models/block/ieScaffolding
+[12:00:45] [Client thread/WARN]: Unable to resolve texture due to upward reference: #side in immersiveengineering:models/block/ieScaffolding
+[12:00:45] [Client thread/WARN]: Unable to resolve texture due to upward reference: #side in immersiveengineering:models/block/ieScaffolding
+[12:00:45] [Client thread/WARN]: Unable to resolve texture due to upward reference: #side in immersiveengineering:models/block/ieScaffolding
+[12:00:45] [Client thread/WARN]: Unable to resolve texture due to upward reference: #side in immersiveengineering:models/block/ieScaffolding
+[12:00:45] [Client thread/WARN]: Unable to resolve texture due to upward reference: #side in immersiveengineering:models/block/ieScaffolding
+[12:00:45] [Client thread/WARN]: Unable to resolve texture due to upward reference: #side in immersiveengineering:models/block/ieScaffolding
+[12:00:45] [Client thread/WARN]: Unable to resolve texture due to upward reference: #side in immersiveengineering:models/block/ieScaffolding
+[12:00:47] [Client thread/WARN]: Skipping bad option: lastServer:
